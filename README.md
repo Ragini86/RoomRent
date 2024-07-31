@@ -1,3 +1,3 @@
-# Full Stack Project 
+# Welcome to RoomRent
 
-This Project is based on Airbnb Website
+RoomRent is your go-to platform for finding comfortable and affordable rooms during your travels.
