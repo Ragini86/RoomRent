@@ -79,10 +79,6 @@ app.use((req,res,next)=>{
     res.locals.currUser = req.user;
     next();
 });
-//Root route
-// app.get("/",(req,res)=>{
-//     res.send("I am root route");
-// })
 //Add Routes
 app.use("/listings",listingRouter);
 app.use("/listings/:id/reviews",reviewRouter);
